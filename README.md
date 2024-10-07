@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rayahn</h1>
-<h3 align="center">Font End Web developer
-  <br>• Font-end web Development  Creative Designer & and all-around creative.
-</h3>
+<h3 align="center">Font End Web developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thisisrayhanhub&label=Profile%20views&color=0e75b6&style=flat" alt="thisisrayhanhub" /> </p>
 
@@ -15,7 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/m.me/rayhan587722" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="m.me/rayhan587722" height="30" width="40" /></a>
+<a href="https://fb.com/m.me/rayhan5877" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="m.me/rayhan5877" height="30" width="40" /></a>
+<a href="https://instagram.com/rayhan587722" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rayhan587722" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
