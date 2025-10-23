@@ -1,5 +1,5 @@
 ## 👨‍💻 About Me
-✅ Rayhan Islam | Passionate Frontend Developer | React.js • Tailwind CSS • JavaScript
+👋 Hi, I’m Rayhan — a Frontend Developer who loves building responsive and modern web apps using React.js and Tailwind CSS.
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/rayhan_islam) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/rayhan5877) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rayhanislam_official) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rayhanislam01) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/rayhanislam01) 
 
